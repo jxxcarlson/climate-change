@@ -30,6 +30,10 @@
 
 [Sources of the UK's Carbon Footprint](http://www.emissions.leeds.ac.uk/chart2.html)
 
+## Newspaper Articles
+
+[Travel and Climate Change](https://www.nytimes.com/2019/06/03/travel/traveling-climate-change.html)
+
 ## Organizations
 
 [Scientists for Future](https://www.scientists4future.org/stellungnahme/statement-text/)
@@ -60,6 +64,10 @@
 [Climate Change Negotiations Game](https://www.climateinteractive.org/programs/world-climate/)
 
 [Climate board game](https://pbs.twimg.com/media/DtnslGGW4AA86YJ.jpg)
+
+## Web Games 
+
+[Stasis](https://github.com/jxxcarlson/stasis) -- this is the WIP game from the workshop.
 
 ## Data
 
